@@ -1,0 +1,4 @@
+ [info] config system initialization completed
+ [error] [memory.cpp:8] failed to get process id for 'cs2.exe'
+			  make sure the game is running
+ [error] [main.cpp:13] memory setup failed
