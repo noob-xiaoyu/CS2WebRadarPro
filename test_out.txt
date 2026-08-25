@@ -1,2 +1,0 @@
- [info] config system initialization completed
- [info] memory initialization completed
